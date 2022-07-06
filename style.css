@@ -25,10 +25,12 @@ body {
   width: 1024px;
     
     background: linear-gradient(110deg, #ffa600 60%, rgba(0, 0, 0, 0) 60%), url('./images/cheese.jpg');
-    height: 90vh;
+    height: 100vh;
     margin: 50px auto;
     
     border-radius: 10px;
+    padding: 10px;
+    flex: 1;
     
 
 }
