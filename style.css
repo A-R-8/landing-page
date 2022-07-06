@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-  width: 1300px;
+  width: 1024px;
     
     background: linear-gradient(110deg, #ffa600 60%, rgba(0, 0, 0, 0) 60%), url('./images/cheese.jpg');
     height: 85vh;
